@@ -6,4 +6,4 @@ If you have any cool ideas that matches the sort of ideas I have feel free to pu
 
 ## Ideas:
 - [Shopping List App](shoppingListApp.md)
-- [DayPlannerApp](Sefohui/DayPlannerApp)
+- [DayPlannerApp](https://github.com/Sefohui/DayPlannerApp)
